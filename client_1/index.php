@@ -14,7 +14,6 @@
 
     $request_data = [
         "attributes" => ["id", "name", "author"],
-        "filter" => []
     ];
 
     try {
