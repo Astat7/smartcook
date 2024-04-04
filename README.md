@@ -1,1 +1,1 @@
-# SmartCook project
+# SmartCook Project
